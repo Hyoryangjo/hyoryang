@@ -45,7 +45,7 @@ else:
 
 # in, not 연산자
 var = [1, 2, 3] 
-print (1 in var) 
+print(1 in var)
 
 var = ["chris", "tommy", "harray"]
 print("chris" in var)
